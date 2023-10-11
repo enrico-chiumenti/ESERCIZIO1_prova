@@ -1,0 +1,13 @@
+#INCLUDE <STDIO.H>
+INT MAIN() (
+ INT NOME, INT SOMMA, INT A, INT B;
+PRINTF("Come ti chiami?"\NOME\n");
+SCANF("%d", &NOME);
+printf("What's \"a\"?\n");
+scanf("%d", &a);
+printf("What's \"b\"?\n");
+scanf("%d", &b);
+c = a + b;
+printf("c = %d\n", c);
+return 0;
+)
